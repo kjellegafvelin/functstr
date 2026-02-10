@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/sample/">
+    <Project Path="sample/SampleFunctions.test/SampleFunctions.test.csproj" Id="8d397e2d-8d5d-4069-b9e6-46490ac4be9d" />
+    <Project Path="sample/SampleFunctions/SampleFunctions.csproj" Id="c45eb80a-e170-4d86-b990-5a00dd4d39d9" />
+  </Folder>
+  <Folder Name="/Tests/">
+    <Project Path="tests/functstr.triggers.http.test/functstr.triggers.http.test.csproj" Id="d165b828-8256-40a1-8dda-66db2edc2dbe" />
+  </Folder>
+  <Project Path="functstr.testing.xUnit/functstr.testing.xUnit.csproj" Id="4d098523-0f64-451f-95c8-f3afb46f5ca5" />
+  <Project Path="src/functstr.core/functstr.core.csproj" />
+  <Project Path="src/functstr.triggers.http/functstr.triggers.http.csproj" />
+</Solution>
